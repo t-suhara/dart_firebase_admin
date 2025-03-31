@@ -16,5 +16,6 @@
     "totp",
     "Webpush",
     "webush"
-  ]
+  ],
+  "dart.flutterSdkPath": ".fvm/versions/3.29.2"
 }
